@@ -1,5 +1,5 @@
 # Explainable AI
 
-Slides for 2017 GWU talk. 
+[Slides](http://markibrahim.me/explainable-ai) for 2017 GWU talk. 
 
 
